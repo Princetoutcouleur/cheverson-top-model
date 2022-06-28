@@ -24,6 +24,9 @@ a .nav-link{
     font-size: 40px;
     border: none;
 }
+.navbar-nav{
+    background-color: white;
+}
 .row{
     margin: 40px 0;
 }
