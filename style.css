@@ -8,8 +8,21 @@ body{
     position: sticky;
     top: 0;
     z-index: 10;
-    height: 100px;
+    height: 120px;
     padding-top: 15px;
+}
+a .nav-link{
+    color: black;
+    font-size: 35px;
+    font-weight: 600;
+}
+.navbar-toggler{
+    border: none;
+}
+.fa-bars{
+    color: black;
+    font-size: 40px;
+    border: none;
 }
 .row{
     margin: 40px 0;
